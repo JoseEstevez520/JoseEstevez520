@@ -94,6 +94,3 @@ El jugador se aventura junto al protagonista en una aventura con dosis de filoso
 
 ---
 
-<div align="center">
-<sub>Si algo de lo que ves aquí te interesa, el botón de follow está arriba.</sub>
-</div>
