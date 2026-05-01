@@ -94,17 +94,6 @@ El jugador se aventura junto al protagonista en una aventura con dosis de filoso
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=JoseEstevez520&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEstevez520&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 <sub>Si algo de lo que ves aquí te interesa, el botón de follow está arriba.</sub>
 </div>
