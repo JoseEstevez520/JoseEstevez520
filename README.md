@@ -76,15 +76,6 @@ Hackathon universitario organizado por el GDG de Santiago. Plataforma para visua
 
 ---
 
-### IconCraft
-Herramienta para la generación de iconos personalizados mediante Inteligencia Artificial. Permite crear recursos visuales únicos optimizando el flujo de diseño para desarrolladores.
-
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseEstevez520/IconCraft)
-
-`Python` `IA Generativa` `Streamlit` `API Integration`
-
----
-
 ### Intentia — En desarrollo
 Videojuego narrativo en Java con LibGDX que explora dilemas filosóficos a través de la aventura y el humor.
 
