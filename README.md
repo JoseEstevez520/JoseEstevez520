@@ -27,7 +27,7 @@ const jose = {
   ubicacion:   "Galicia, España",
   actualmente: ["terminando DAW"],
   intereses:   ["fullstack", "IA aplicada", "automatización"],
-  logro:       "2º puesto en el Impacthon USC 2026",
+  logro:       ["2º puesto en el Impacthon USC 2026", "ganador InnovaTechFP"],
 };
 ```
 
