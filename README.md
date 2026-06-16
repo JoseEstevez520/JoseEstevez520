@@ -25,8 +25,8 @@ Mucha curiosidad y ganas de aprender.
 const jose = {
   formacion:   "Desarrollo de Aplicaciones Web (DAW)",
   ubicacion:   "Galicia, España",
-  actualmente: ["terminando DAW", "desarrollando Intentia", "aprendiendo cada semana algo nuevo"],
-  intereses:   ["fullstack", "IA aplicada", "automatización", "game dev"],
+  actualmente: ["terminando DAW"],
+  intereses:   ["fullstack", "IA aplicada", "automatización"],
   logro:       "2º puesto en el Impacthon USC 2026",
 };
 ```
@@ -53,7 +53,6 @@ const jose = {
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![IA aplicada](https://img.shields.io/badge/IA%20aplicada-6e40c9?style=flat-square&logoColor=white)
 
 **Herramientas**
 
@@ -74,13 +73,5 @@ Hackathon universitario organizado por el GDG de Santiago. Plataforma para visua
 
 `React 19` `Vite` `Tailwind CSS` `Firebase` `n8n` `3Dmol.js`
 
----
-
-### Harness Architect Skill
-Proyecto enfocado en la arquitectura de flujos de trabajo y automatización dentro del ecosistema de Harness, demostrando habilidades en CI/CD y despliegue moderno.
-
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseEstevez520/harness-architect-skill)
-
-`DevOps` `CI/CD` `Harness` `Automation`
-
----
+### Proyectos personales
+Varios proyectos privados en desarrollo.
