@@ -76,18 +76,6 @@ Hackathon universitario organizado por el GDG de Santiago. Plataforma para visua
 
 ---
 
-### Intentia — En desarrollo
-Videojuego narrativo en Java con LibGDX que explora dilemas filosóficos a través de la aventura y el humor.
-
-> *"Juzgar si la vida vale o no vale la pena vivir es responder a la pregunta fundamental de la filosofía."* — Albert Camus
-
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseEstevez520/Intentia)
-[![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-orange?style=flat-square)](https://github.com/JoseEstevez520/Intentia)
-
-`Java` `LibGDX` `Tiled` `Gradle` `MVC`
-
----
-
 ### Harness Architect Skill
 Proyecto enfocado en la arquitectura de flujos de trabajo y automatización dentro del ecosistema de Harness, demostrando habilidades en CI/CD y despliegue moderno.
 
