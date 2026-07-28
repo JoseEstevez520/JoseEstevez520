@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+---
 
 Working at the intersection of AI and software design.
 
@@ -19,7 +19,7 @@ I care about the purpose behind every technical decision, not just the code.
 
 Curious about philosophy, product thinking, and how technology connects with people in ways that actually matter.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+---
 
 <div align="center">
 
