@@ -10,17 +10,17 @@
 
 Working at the intersection of AI and software design.
 
-Researching how technology can adapt to people instead of the other way around — how interfaces could generate themselves, how software could learn from the way you use it, and how knowledge could reshape itself for each person.
+Researching how technology can adapt to people instead of the other way around. How interfaces could generate themselves, how software could learn from the way you use it, and how knowledge could reshape itself for each person.
 
 I care about the purpose behind every technical decision, not just the code.
 
 Curious about philosophy, product thinking, and how technology connects with people in ways that actually matter.
 
-<br/>
+---
 
 <div align="center">
 
-Always happy to connect — let's talk.
+Always happy to connect. Let's talk.
 
 <a href="https://www.linkedin.com/in/jose-estevez-b9b761388">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"/>
