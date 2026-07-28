@@ -6,7 +6,7 @@
 
 </div>
 
----
+<br/>
 
 Working at the intersection of AI and software design.
 
@@ -16,7 +16,7 @@ I care about the purpose behind every technical decision, not just the code.
 
 Curious about philosophy, product thinking, and how technology connects with people in ways that actually matter.
 
----
+<br/>
 
 <div align="center">
 
