@@ -20,6 +20,8 @@ Curious about philosophy, product thinking, and how technology connects with peo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-estevez-b9b761388)
+<a href="https://www.linkedin.com/in/jose-estevez-b9b761388">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"/>
+</a>
 
 </div>
