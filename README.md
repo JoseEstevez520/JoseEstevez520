@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8b949e&center=true&vCenter=true&width=500&height=30&lines=Developer+%C2%B7+AI;Researching%2C+building%2C+dreaming)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-estevez-b9b761388)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseEstevez520)
-
 </div>
 
 ---
@@ -23,10 +20,6 @@ Curious about philosophy, product thinking, and how technology connects with peo
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseEstevez520/JoseEstevez520/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseEstevez520/JoseEstevez520/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/JoseEstevez520/JoseEstevez520/output/github-snake.svg" />
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-estevez-b9b761388)
 
 </div>
