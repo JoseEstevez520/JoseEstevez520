@@ -20,7 +20,7 @@ Curious about philosophy, product thinking, and how technology connects with peo
 
 <div align="center">
 
-Always happy to connect. Let's talk.
+Always happy to connect.
 
 <a href="https://www.linkedin.com/in/jose-est%C3%A9vez-b9b761388">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"/>
