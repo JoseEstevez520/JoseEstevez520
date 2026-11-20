@@ -4,7 +4,7 @@ Developer working on AI and <picture><source media="(prefers-color-scheme: dark)
 
 I believe technology should <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/inline-adapt-dark.svg"><img src="./assets/inline-adapt-light.svg" height="26" align="absmiddle" alt="adapt to people"></picture>, not the other way around, and I care about the purpose behind every technical decision, not just the code.
 
-I love new projects, new ideas and <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/inline-ship-dark.svg"><img src="./assets/inline-ship-light.svg" height="26" align="absmiddle" alt="shipping fast"></picture>. Also into UI/UX and product design.
+I love new projects, new ideas and **shipping fast**. Also into UI/UX and product design.
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chips-dark.svg"><img src="./assets/chips-light.svg" alt="Vigo, Spain · Generative UI · AI · Agents"></picture></p>
 
