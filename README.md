@@ -9,8 +9,8 @@ I love new projects, new ideas and <picture><source media="(prefers-color-scheme
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chips-dark.svg"><img src="./assets/chips-light.svg" alt="Vigo, Spain · Generative UI · AI · Agents"></picture></p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/talk-dark.svg"><img src="./assets/talk-light.svg" alt="Always happy to talk!"></picture>
-  <br>
+  <b>Always happy to talk!</b>
+  <br><br>
   <a href="https://joseestevez.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-web-dark.svg"><img src="./assets/btn-web-light.svg" alt="Website"></picture></a>&nbsp;
   <a href="https://x.com/JoseEstevez520"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-x-dark.svg"><img src="./assets/btn-x-light.svg" alt="X"></picture></a>&nbsp;
   <a href="https://www.linkedin.com/in/jose-est%C3%A9vez-b9b761388"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img src="./assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>
