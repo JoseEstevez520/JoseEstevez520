@@ -1,29 +1,17 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-b-dark.svg"><img src="./assets/header-b-light.svg" width="100%" alt="exploring, building, dreaming"></picture>
 
-# Jose Estevez
+Developer working on AI and generative UI: interfaces that build themselves around each person, and software that learns from the way you use it.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8b949e&center=true&vCenter=true&width=500&height=30&lines=Developer+%C2%B7+AI;Researching%2C+building%2C+dreaming)](https://git.io/typing-svg)
+I believe technology should adapt to people, not the other way around, and I care about the purpose behind every technical decision, not just the code.
 
-</div>
+I love new projects, new ideas and shipping fast. Also into UI/UX and product design.
 
-<br/>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chips-dark.svg"><img src="./assets/chips-light.svg" alt="Vigo, Spain · Generative UI · AI · Agents"></picture></p>
 
-Working at the intersection of AI and software design.
-
-Researching how technology can adapt to people instead of the other way around. How interfaces could generate themselves, how software could learn from the way you use it, and how knowledge could reshape itself for each person.
-
-I care about the purpose behind every technical decision, not just the code.
-
-Curious about philosophy, product thinking, and how technology connects with people in ways that actually matter.
-
-<br/>
-
-<div align="center">
-
-Always happy to connect.
-
-<a href="https://www.linkedin.com/in/jose-est%C3%A9vez-b9b761388">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"/>
-</a>
-
-</div>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/talk-dark.svg"><img src="./assets/talk-light.svg" alt="Always happy to talk!"></picture>
+  <br>
+  <a href="https://joseestevez.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-web-dark.svg"><img src="./assets/btn-web-light.svg" alt="Website"></picture></a>&nbsp;
+  <a href="https://x.com/JoseEstevez520"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-x-dark.svg"><img src="./assets/btn-x-light.svg" alt="X"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jose-est%C3%A9vez-b9b761388"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img src="./assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>
+</p>
