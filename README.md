@@ -1,10 +1,10 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-b-dark.svg"><img src="./assets/header-b-light.svg" width="100%" alt="exploring, building, dreaming"></picture>
 
-Developer working on AI and generative UI: interfaces that build themselves around each person, and software that learns from the way you use it.
+Developer working on AI and <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/inline-generate-dark.svg"><img src="./assets/inline-generate-light.svg" height="26" align="absmiddle" alt="generative UI"></picture>: interfaces that build themselves around each person, and software that learns from the way you use it.
 
-I believe technology should adapt to people, not the other way around, and I care about the purpose behind every technical decision, not just the code.
+I believe technology should <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/inline-adapt-dark.svg"><img src="./assets/inline-adapt-light.svg" height="26" align="absmiddle" alt="adapt to people"></picture>, not the other way around, and I care about the purpose behind every technical decision, not just the code.
 
-I love new projects, new ideas and shipping fast. Also into UI/UX and product design.
+I love new projects, new ideas and <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/inline-ship-dark.svg"><img src="./assets/inline-ship-light.svg" height="26" align="absmiddle" alt="shipping fast"></picture>. Also into UI/UX and product design.
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chips-dark.svg"><img src="./assets/chips-light.svg" alt="Vigo, Spain · Generative UI · AI · Agents"></picture></p>
 
